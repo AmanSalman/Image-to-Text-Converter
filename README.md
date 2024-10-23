@@ -43,4 +43,10 @@ To use the Google Vision API, you need an API key. Replace the placeholder in th
    npx expo start
    ```
    This command will start the Expo development server and provide you with a QR code to scan with the Expo Go app on your mobile device or open the app in an Android/iOS emulator.
+
+
   
+
+https://github.com/user-attachments/assets/b139139b-a649-49a0-b059-6b1e0ec2083a
+
+
