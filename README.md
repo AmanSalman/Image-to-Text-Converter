@@ -36,7 +36,7 @@ To use the Google Vision API, you need an API key. Replace the placeholder in th
    ```
 4. Create a config.js file in the root directory and add the API key:
    ```bash
-   export const API_KEY <your api key>
+   export const API_KEY = <your api key>
    ```
 5. To run the app locally, use the following command:
    ```bash
